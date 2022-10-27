@@ -82,7 +82,7 @@ notebook==6.5.1
 notebook-shim==0.1.0
 numpy==1.23.4
 oauthlib==3.2.1
-open3d==0.15.1
+open3d>=0.15.1,<=0.15.2
 opencv-contrib-python==4.6.0.66
 opt-einsum==3.3.0
 packaging==20.9
